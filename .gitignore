@@ -1,0 +1,13 @@
+# Byte-compiled / virtual environment
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Config
+config/config.yaml
+config/*.key
+

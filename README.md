@@ -25,7 +25,7 @@ pip install -r requirements.txt
 - **Data frequency:** 15-minute candles
 - **Number of trades:** 1,992
 - **Cumulative return on the period** 20%
-- **Sharpe ratio (on trades only):** 5.72 ✅
+- **Sharpe ratio (on trades only):** 2.06 ✅
 - **Total Sharpe ratio :** 2,12 ✅
 - **Mean return per trade:** 0.0095%
 - **Standard deviation per trade:** 0.259%
